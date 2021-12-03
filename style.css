@@ -44,6 +44,7 @@ font-weight: 300;
 line-height: 54px;
 margin-bottom: 0;
 float: left;
+padding-left: 30px;
 }
 
 .title
@@ -65,6 +66,7 @@ nav
     float: right;
     display : inline-flex;
     box-sizing: content-box;
+	padding-right: 30px;
 }
 
 .page-link:not(:last-child) {
