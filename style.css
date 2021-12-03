@@ -162,6 +162,7 @@ iframe
     margin-left: auto;
     padding-right: 30px;
     padding-left: 30px;
+padding-top: 15px;
 }
 
 
@@ -169,6 +170,7 @@ iframe
 
 .panel {
     margin-bottom: 20px;
+	margin-top: 20px;
     background-color: #fff;
     border: 1px solid transparent;
     border-radius: 4px;
@@ -213,7 +215,6 @@ iframe
     padding-right: 15px;
     padding-bottom: 15px;
     display : block;
-    margin-bottom: 20px;
 }
 
 .objectif
